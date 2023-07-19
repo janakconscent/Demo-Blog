@@ -4587,224 +4587,182 @@
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA13ViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1822,
+      "offset": 1942,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA13ViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2031,
+      "offset": 2151,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA13ViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2357,
+      "offset": 2477,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA13ViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2688,
+      "offset": 2808,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA13ViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2987,
+      "offset": 3107,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA13ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3762,
+      "offset": 3882,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA13ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4049,
+      "offset": 4169,
       "length": 4,
       "value": "true"
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA13ViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4558,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA13ViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4560,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA13ViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4562,
-      "length": 1,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA13ViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4564,
-      "length": 1,
-      "value": "3"
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA13ViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4682,
-      "length": 3,
-      "value": "150"
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA13ViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4688,
-      "length": 3,
-      "value": "130"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA13ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 5494,
+      "offset": 5465,
       "length": 13,
       "value": "\"contentSize\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA13ViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 6507,
+      "offset": 6478,
       "length": 3,
       "value": "0.7"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA13ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6562,
+      "offset": 6533,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA13ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6617,
+      "offset": 6588,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA13ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6759,
+      "offset": 6730,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA13ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6814,
+      "offset": 6785,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA13ViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 6916,
+      "offset": 6887,
       "length": 3,
       "value": "0.7"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA13ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6971,
+      "offset": 6942,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA13ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7025,
+      "offset": 6996,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA13ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7224,
+      "offset": 7195,
       "length": 44,
       "value": "\"Selected Slot: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA13ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7267,
+      "offset": 7238,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA13ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7328,
+      "offset": 7299,
       "length": 9,
       "value": "\"content\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA13ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7362,
+      "offset": 7333,
       "length": 9,
       "value": "\"content\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA13ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7425,
+      "offset": 7396,
       "length": 6,
       "value": "\"pass\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA13ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7456,
+      "offset": 7427,
       "length": 6,
       "value": "\"pass\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA13ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7517,
+      "offset": 7488,
       "length": 14,
       "value": "\"subscription\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA13ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7556,
+      "offset": 7527,
       "length": 14,
       "value": "\"subscription\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA13ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7741,
+      "offset": 7712,
       "length": 9,
       "value": "\"content\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA13ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7906,
+      "offset": 7877,
       "length": 9,
       "value": "\"content\""
     },
@@ -4839,196 +4797,168 @@
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA7ViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1814,
+      "offset": 1934,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA7ViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2027,
+      "offset": 2147,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA7ViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2351,
+      "offset": 2471,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA7ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3209,
+      "offset": 3329,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA7ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3496,
+      "offset": 3616,
       "length": 4,
       "value": "true"
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA7ViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4004,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA7ViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4006,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA7ViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4124,
-      "length": 3,
-      "value": "150"
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA7ViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4130,
-      "length": 3,
-      "value": "130"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA7ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 4820,
+      "offset": 4795,
       "length": 13,
       "value": "\"contentSize\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA7ViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 5833,
+      "offset": 5808,
       "length": 3,
       "value": "0.7"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA7ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5888,
+      "offset": 5863,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA7ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5943,
+      "offset": 5918,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA7ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6085,
+      "offset": 6060,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA7ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6140,
+      "offset": 6115,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA7ViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 6242,
+      "offset": 6217,
       "length": 3,
       "value": "0.7"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA7ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6297,
+      "offset": 6272,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA7ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6351,
+      "offset": 6326,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA7ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6524,
+      "offset": 6499,
       "length": 44,
       "value": "\"Selected Slot: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA7ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6567,
+      "offset": 6542,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA7ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6628,
+      "offset": 6603,
       "length": 9,
       "value": "\"content\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA7ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6662,
+      "offset": 6637,
       "length": 9,
       "value": "\"content\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA7ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6725,
+      "offset": 6700,
       "length": 6,
       "value": "\"pass\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA7ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6756,
+      "offset": 6731,
       "length": 6,
       "value": "\"pass\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA7ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6817,
+      "offset": 6792,
       "length": 14,
       "value": "\"subscription\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA7ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6856,
+      "offset": 6831,
       "length": 14,
       "value": "\"subscription\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA7ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7041,
+      "offset": 7016,
       "length": 9,
       "value": "\"content\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA7ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7206,
+      "offset": 7181,
       "length": 9,
       "value": "\"content\""
     },
@@ -8969,224 +8899,182 @@
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA15ViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1822,
+      "offset": 1942,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA15ViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2031,
+      "offset": 2151,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA15ViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2357,
+      "offset": 2477,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA15ViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2688,
+      "offset": 2808,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA15ViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2987,
+      "offset": 3107,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA15ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3762,
+      "offset": 3882,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA15ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4049,
+      "offset": 4169,
       "length": 4,
       "value": "true"
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA15ViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4558,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA15ViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4560,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA15ViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4562,
-      "length": 1,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA15ViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4564,
-      "length": 1,
-      "value": "3"
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA15ViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4682,
-      "length": 3,
-      "value": "150"
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA15ViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4688,
-      "length": 3,
-      "value": "130"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA15ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 5494,
+      "offset": 5465,
       "length": 13,
       "value": "\"contentSize\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA15ViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 6507,
+      "offset": 6478,
       "length": 3,
       "value": "0.7"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA15ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6562,
+      "offset": 6533,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA15ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6617,
+      "offset": 6588,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA15ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6759,
+      "offset": 6730,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA15ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6814,
+      "offset": 6785,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA15ViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 6916,
+      "offset": 6887,
       "length": 3,
       "value": "0.7"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA15ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6971,
+      "offset": 6942,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA15ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7025,
+      "offset": 6996,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA15ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7224,
+      "offset": 7195,
       "length": 44,
       "value": "\"Selected Slot: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA15ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7267,
+      "offset": 7238,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA15ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7328,
+      "offset": 7299,
       "length": 9,
       "value": "\"content\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA15ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7362,
+      "offset": 7333,
       "length": 9,
       "value": "\"content\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA15ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7425,
+      "offset": 7396,
       "length": 6,
       "value": "\"pass\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA15ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7456,
+      "offset": 7427,
       "length": 6,
       "value": "\"pass\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA15ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7517,
+      "offset": 7488,
       "length": 14,
       "value": "\"subscription\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA15ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7556,
+      "offset": 7527,
       "length": 14,
       "value": "\"subscription\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA15ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7741,
+      "offset": 7712,
       "length": 9,
       "value": "\"content\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA15ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7906,
+      "offset": 7877,
       "length": 9,
       "value": "\"content\""
     },
@@ -9235,455 +9123,455 @@
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2500,
+      "offset": 2620,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2504,
+      "offset": 2624,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2713,
+      "offset": 2833,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3051,
+      "offset": 3171,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3379,
+      "offset": 3499,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "StringLiteral",
-      "offset": 5849,
+      "offset": 5969,
       "length": 13,
       "value": "\"contentSize\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6033,
+      "offset": 6153,
       "length": 5,
       "value": "\"RG4\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6077,
+      "offset": 6197,
       "length": 5,
       "value": "\"RG5\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6121,
+      "offset": 6241,
       "length": 5,
       "value": "\"RG6\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 6866,
+      "offset": 6986,
       "length": 3,
       "value": "0.7"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6921,
+      "offset": 7041,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6976,
+      "offset": 7096,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7118,
+      "offset": 7238,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7173,
+      "offset": 7293,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 7275,
+      "offset": 7395,
       "length": 3,
       "value": "0.7"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7330,
+      "offset": 7450,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7384,
+      "offset": 7504,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7602,
+      "offset": 7722,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7657,
+      "offset": 7777,
       "length": 35,
       "value": "\"Enter valid email or phone number\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7873,
+      "offset": 7993,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7895,
+      "offset": 8015,
       "length": 35,
       "value": "\"Slot: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7929,
+      "offset": 8049,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7950,
+      "offset": 8070,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8005,
+      "offset": 8125,
       "length": 12,
       "value": "\"emailLogin\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8042,
+      "offset": 8162,
       "length": 12,
       "value": "\"emailLogin\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8074,
+      "offset": 8194,
       "length": 7,
       "value": "\"email\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8107,
+      "offset": 8227,
       "length": 50,
       "value": "\"[A-Z0-9a-z._%+-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,4}\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8171,
+      "offset": 8291,
       "length": 13,
       "value": "\"mobileLogin\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8209,
+      "offset": 8329,
       "length": 13,
       "value": "\"mobileLogin\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8242,
+      "offset": 8362,
       "length": 13,
       "value": "\"phoneNumber\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8281,
+      "offset": 8401,
       "length": 15,
       "value": "\"^[6-9]\\d{9}$\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8310,
+      "offset": 8430,
       "length": 11,
       "value": "\"nameInput\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8346,
+      "offset": 8466,
       "length": 11,
       "value": "\"nameInput\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8377,
+      "offset": 8497,
       "length": 6,
       "value": "\"name\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8409,
+      "offset": 8529,
       "length": 16,
       "value": "\"^[a-zA-Z]{4,}$\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8439,
+      "offset": 8559,
       "length": 18,
       "value": "\"emailMobileLogin\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8482,
+      "offset": 8602,
       "length": 18,
       "value": "\"emailMobileLogin\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8586,
+      "offset": 8706,
       "length": 3,
       "value": "\"@\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8619,
+      "offset": 8739,
       "length": 7,
       "value": "\"email\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8660,
+      "offset": 8780,
       "length": 50,
       "value": "\"[A-Z0-9a-z._%+-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,4}\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8762,
+      "offset": 8882,
       "length": 13,
       "value": "\"phoneNumber\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8809,
+      "offset": 8929,
       "length": 15,
       "value": "\"^[6-9]\\d{9}$\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8969,
+      "offset": 9089,
       "length": 48,
       "value": "\"{\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8979,
+      "offset": 9099,
       "length": 1,
       "value": "\"\":\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9010,
+      "offset": 9130,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9013,
+      "offset": 9133,
       "length": 1,
       "value": "\"\"}\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9036,
+      "offset": 9156,
       "length": 29,
       "value": "\"userDetails::\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9064,
+      "offset": 9184,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9346,
+      "offset": 9466,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9401,
+      "offset": 9521,
       "length": 12,
       "value": "\"emailLogin\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9440,
+      "offset": 9560,
       "length": 50,
       "value": "\"[A-Z0-9a-z._%+-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,4}\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9504,
+      "offset": 9624,
       "length": 13,
       "value": "\"mobileLogin\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9544,
+      "offset": 9664,
       "length": 15,
       "value": "\"^[6-9]\\d{9}$\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9573,
+      "offset": 9693,
       "length": 11,
       "value": "\"nameInput\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9611,
+      "offset": 9731,
       "length": 16,
       "value": "\"^[a-zA-Z]{4,}$\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9641,
+      "offset": 9761,
       "length": 18,
       "value": "\"emailMobileLogin\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9745,
+      "offset": 9865,
       "length": 3,
       "value": "\"@\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9785,
+      "offset": 9905,
       "length": 50,
       "value": "\"[A-Z0-9a-z._%+-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,4}\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9894,
+      "offset": 10014,
       "length": 15,
       "value": "\"^[6-9]\\d{9}$\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "StringLiteral",
-      "offset": 10047,
+      "offset": 10167,
       "length": 17,
       "value": "\"SELF MATCHES %@\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "StringLiteral",
-      "offset": 10227,
+      "offset": 10347,
       "length": 9,
       "value": "\"content\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 10798,
+      "offset": 10918,
       "length": 3,
       "value": "0.2"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 11086,
+      "offset": 11206,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 11637,
+      "offset": 11757,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/RGViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 12147,
+      "offset": 12267,
       "length": 4,
       "value": "true"
     },
@@ -12728,210 +12616,210 @@
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CTA15TableViewCell.swift",
       "kind": "StringLiteral",
-      "offset": 1316,
+      "offset": 1363,
       "length": 8,
       "value": "\"Rs 999\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CTA15TableViewCell.swift",
       "kind": "StringLiteral",
-      "offset": 1379,
+      "offset": 1426,
       "length": 8,
       "value": "\"Rs 999\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CTA15TableViewCell.swift",
       "kind": "StringLiteral",
-      "offset": 2102,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CTA15TableViewCell.swift",
-      "kind": "StringLiteral",
-      "offset": 2159,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CTA15TableViewCell.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2303,
-      "length": 2,
-      "value": "50"
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CTA15TableViewCell.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2604,
-      "length": 2,
-      "value": "50"
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CTA15TableViewCell.swift",
-      "kind": "StringLiteral",
-      "offset": 2850,
-      "length": 8,
-      "value": "\"Rs 669\""
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CTA15TableViewCell.swift",
-      "kind": "StringLiteral",
-      "offset": 2913,
-      "length": 8,
-      "value": "\"Rs 669\""
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CTA15TableViewCell.swift",
-      "kind": "StringLiteral",
-      "offset": 3458,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CTA15TableViewCell.swift",
-      "kind": "StringLiteral",
-      "offset": 3515,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CTA15TableViewCell.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3669,
-      "length": 2,
-      "value": "20"
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CTA15TableViewCell.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3980,
-      "length": 2,
-      "value": "20"
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CTA15TableViewCell.swift",
-      "kind": "StringLiteral",
-      "offset": 4224,
-      "length": 3,
-      "value": "\"@\""
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CTA15TableViewCell.swift",
-      "kind": "StringLiteral",
-      "offset": 4282,
-      "length": 3,
-      "value": "\"@\""
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CTA15TableViewCell.swift",
-      "kind": "StringLiteral",
-      "offset": 4798,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CTA15TableViewCell.swift",
-      "kind": "StringLiteral",
-      "offset": 4855,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CTA15TableViewCell.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5003,
-      "length": 2,
-      "value": "20"
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CTA15TableViewCell.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5308,
-      "length": 2,
-      "value": "20"
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CTA15TableViewCell.swift",
-      "kind": "StringLiteral",
-      "offset": 5601,
-      "length": 7,
-      "value": "\"Rs 80\""
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CTA15TableViewCell.swift",
-      "kind": "StringLiteral",
-      "offset": 5663,
-      "length": 7,
-      "value": "\"Rs 80\""
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CTA15TableViewCell.swift",
-      "kind": "StringLiteral",
-      "offset": 5849,
+      "offset": 1613,
       "length": 44,
       "value": "\"Selected Slot: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CTA15TableViewCell.swift",
       "kind": "StringLiteral",
-      "offset": 5892,
+      "offset": 1656,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CTA15TableViewCell.swift",
       "kind": "StringLiteral",
-      "offset": 6031,
+      "offset": 1795,
       "length": 14,
       "value": "\"subscription\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CTA15TableViewCell.swift",
       "kind": "StringLiteral",
-      "offset": 6270,
+      "offset": 2034,
       "length": 9,
       "value": "\"content\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CTA15TableViewCell.swift",
       "kind": "StringLiteral",
-      "offset": 6308,
+      "offset": 2072,
       "length": 9,
       "value": "\"content\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CTA15TableViewCell.swift",
       "kind": "StringLiteral",
-      "offset": 6470,
+      "offset": 2234,
       "length": 6,
       "value": "\"pass\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CTA15TableViewCell.swift",
       "kind": "StringLiteral",
-      "offset": 7238,
+      "offset": 3144,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CTA15TableViewCell.swift",
       "kind": "StringLiteral",
-      "offset": 7295,
+      "offset": 3201,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CTA15TableViewCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 7447,
+      "offset": 3345,
+      "length": 2,
+      "value": "50"
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CTA15TableViewCell.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3646,
+      "length": 2,
+      "value": "50"
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CTA15TableViewCell.swift",
+      "kind": "StringLiteral",
+      "offset": 3892,
+      "length": 8,
+      "value": "\"Rs 669\""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CTA15TableViewCell.swift",
+      "kind": "StringLiteral",
+      "offset": 3955,
+      "length": 8,
+      "value": "\"Rs 669\""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CTA15TableViewCell.swift",
+      "kind": "StringLiteral",
+      "offset": 4500,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CTA15TableViewCell.swift",
+      "kind": "StringLiteral",
+      "offset": 4557,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CTA15TableViewCell.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4711,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CTA15TableViewCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 7756,
+      "offset": 5022,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CTA15TableViewCell.swift",
+      "kind": "StringLiteral",
+      "offset": 5266,
+      "length": 3,
+      "value": "\"@\""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CTA15TableViewCell.swift",
+      "kind": "StringLiteral",
+      "offset": 5324,
+      "length": 3,
+      "value": "\"@\""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CTA15TableViewCell.swift",
+      "kind": "StringLiteral",
+      "offset": 5840,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CTA15TableViewCell.swift",
+      "kind": "StringLiteral",
+      "offset": 5897,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CTA15TableViewCell.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6045,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CTA15TableViewCell.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6350,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CTA15TableViewCell.swift",
+      "kind": "StringLiteral",
+      "offset": 6596,
+      "length": 7,
+      "value": "\"Rs 80\""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CTA15TableViewCell.swift",
+      "kind": "StringLiteral",
+      "offset": 6658,
+      "length": 7,
+      "value": "\"Rs 80\""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CTA15TableViewCell.swift",
+      "kind": "StringLiteral",
+      "offset": 7246,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CTA15TableViewCell.swift",
+      "kind": "StringLiteral",
+      "offset": 7303,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CTA15TableViewCell.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7455,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CTA15TableViewCell.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7764,
       "length": 2,
       "value": "20"
     },
@@ -13596,273 +13484,238 @@
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA5ViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1851,
+      "offset": 1971,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA5ViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2060,
+      "offset": 2180,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA5ViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2386,
+      "offset": 2506,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA5ViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2718,
+      "offset": 2838,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA5ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4928,
+      "offset": 5048,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA5ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5215,
+      "offset": 5335,
       "length": 4,
       "value": "true"
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA5ViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5723,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA5ViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5725,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA5ViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5727,
-      "length": 1,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA5ViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5845,
-      "length": 3,
-      "value": "150"
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA5ViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5851,
-      "length": 3,
-      "value": "130"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA5ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6709,
+      "offset": 6682,
       "length": 13,
       "value": "\"contentSize\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA5ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6898,
+      "offset": 6871,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA5ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6943,
+      "offset": 6916,
       "length": 3,
       "value": "\"2\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA5ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6988,
+      "offset": 6961,
       "length": 3,
       "value": "\"3\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA5ViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7670,
+      "offset": 7643,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA5ViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7682,
+      "offset": 7655,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA5ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7769,
+      "offset": 7742,
       "length": 8,
       "value": "\"CTA5A1\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA5ViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 8552,
+      "offset": 8525,
       "length": 3,
       "value": "0.7"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA5ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8607,
+      "offset": 8580,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA5ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8662,
+      "offset": 8635,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA5ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8804,
+      "offset": 8777,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA5ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8859,
+      "offset": 8832,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA5ViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 8961,
+      "offset": 8934,
       "length": 3,
       "value": "0.7"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA5ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9016,
+      "offset": 8989,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA5ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9070,
+      "offset": 9043,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA5ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9352,
+      "offset": 9325,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA5ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9593,
+      "offset": 9566,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA5ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9829,
+      "offset": 9802,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA5ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9988,
+      "offset": 9961,
       "length": 44,
       "value": "\"Selected Slot: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA5ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 10031,
+      "offset": 10004,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA5ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 10092,
+      "offset": 10065,
       "length": 9,
       "value": "\"content\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA5ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 10126,
+      "offset": 10099,
       "length": 9,
       "value": "\"content\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA5ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 10189,
+      "offset": 10162,
       "length": 6,
       "value": "\"pass\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA5ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 10220,
+      "offset": 10193,
       "length": 6,
       "value": "\"pass\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA5ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 10281,
+      "offset": 10254,
       "length": 14,
       "value": "\"subscription\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA5ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 10320,
+      "offset": 10293,
       "length": 14,
       "value": "\"subscription\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA5ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 10505,
+      "offset": 10478,
       "length": 9,
       "value": "\"content\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA5ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 10670,
+      "offset": 10643,
       "length": 9,
       "value": "\"content\""
     },
@@ -14212,280 +14065,231 @@
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA8ViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1900,
+      "offset": 2020,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA8ViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1904,
+      "offset": 2024,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA8ViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2113,
+      "offset": 2233,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA8ViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2380,
+      "offset": 2500,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA8ViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2835,
+      "offset": 2955,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA8ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3413,
+      "offset": 3533,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA8ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3712,
+      "offset": 3832,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA8ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4741,
+      "offset": 4861,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA8ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5028,
+      "offset": 5148,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA8ViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5536,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA8ViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5602,
+      "offset": 5827,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA8ViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5668,
-      "length": 1,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA8ViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5756,
-      "length": 3,
-      "value": "150"
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA8ViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5762,
-      "length": 3,
-      "value": "130"
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA8ViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5920,
-      "length": 3,
-      "value": "150"
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA8ViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5926,
-      "length": 3,
-      "value": "130"
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA8ViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 6116,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA8ViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 6354,
+      "offset": 6065,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA8ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6623,
+      "offset": 6334,
       "length": 9,
       "value": "\"default\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA8ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7472,
+      "offset": 7183,
       "length": 13,
       "value": "\"contentSize\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA8ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7661,
+      "offset": 7372,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA8ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7910,
+      "offset": 7621,
       "length": 3,
       "value": "\"2\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA8ViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 8877,
+      "offset": 8588,
       "length": 3,
       "value": "0.7"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA8ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8932,
+      "offset": 8643,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA8ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8987,
+      "offset": 8698,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA8ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9129,
+      "offset": 8840,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA8ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9184,
+      "offset": 8895,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA8ViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 9286,
+      "offset": 8997,
       "length": 3,
       "value": "0.7"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA8ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9341,
+      "offset": 9052,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA8ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9395,
+      "offset": 9106,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA8ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9593,
+      "offset": 9304,
       "length": 44,
       "value": "\"Selected Slot: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA8ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9636,
+      "offset": 9347,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA8ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9697,
+      "offset": 9408,
       "length": 9,
       "value": "\"content\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA8ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9731,
+      "offset": 9442,
       "length": 9,
       "value": "\"content\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA8ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9794,
+      "offset": 9505,
       "length": 6,
       "value": "\"pass\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA8ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9825,
+      "offset": 9536,
       "length": 6,
       "value": "\"pass\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA8ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9886,
+      "offset": 9597,
       "length": 14,
       "value": "\"subscription\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA8ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9925,
+      "offset": 9636,
       "length": 14,
       "value": "\"subscription\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA8ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 10110,
+      "offset": 9821,
       "length": 9,
       "value": "\"content\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA8ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 10275,
+      "offset": 9986,
       "length": 9,
       "value": "\"content\""
     },
@@ -16171,218 +15975,253 @@
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CommonFooterTableViewCell.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1064,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CommonFooterTableViewCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 1014,
+      "offset": 1145,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CommonFooterTableViewCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 1074,
+      "offset": 1205,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CommonFooterTableViewCell.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1233,
+      "length": 2,
+      "value": "25"
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CommonFooterTableViewCell.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1387,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CommonFooterTableViewCell.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1415,
+      "length": 2,
+      "value": "25"
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CommonFooterTableViewCell.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1474,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CommonFooterTableViewCell.swift",
       "kind": "StringLiteral",
-      "offset": 3390,
+      "offset": 3841,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CommonFooterTableViewCell.swift",
       "kind": "StringLiteral",
-      "offset": 3450,
+      "offset": 3901,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CommonFooterTableViewCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 3586,
+      "offset": 4037,
       "length": 2,
       "value": "17"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CommonFooterTableViewCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 3782,
+      "offset": 4233,
       "length": 2,
       "value": "17"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CommonFooterTableViewCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 4015,
+      "offset": 4466,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CommonFooterTableViewCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 4325,
+      "offset": 4776,
       "length": 2,
       "value": "17"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CommonFooterTableViewCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 4841,
+      "offset": 5292,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CommonFooterTableViewCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 4887,
+      "offset": 5338,
       "length": 2,
       "value": "23"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CommonFooterTableViewCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 4923,
+      "offset": 5374,
       "length": 2,
       "value": "23"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CommonFooterTableViewCell.swift",
       "kind": "StringLiteral",
-      "offset": 5317,
+      "offset": 5768,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CommonFooterTableViewCell.swift",
       "kind": "StringLiteral",
-      "offset": 5846,
+      "offset": 6297,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CommonFooterTableViewCell.swift",
       "kind": "StringLiteral",
-      "offset": 5903,
+      "offset": 6354,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CommonFooterTableViewCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 6062,
+      "offset": 6513,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CommonFooterTableViewCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 6378,
+      "offset": 6829,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CommonFooterTableViewCell.swift",
       "kind": "StringLiteral",
-      "offset": 6662,
+      "offset": 7113,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CommonFooterTableViewCell.swift",
       "kind": "StringLiteral",
-      "offset": 7221,
+      "offset": 7672,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CommonFooterTableViewCell.swift",
       "kind": "StringLiteral",
-      "offset": 7278,
+      "offset": 7729,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CommonFooterTableViewCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 7447,
+      "offset": 7898,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CommonFooterTableViewCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 7773,
+      "offset": 8224,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CommonFooterTableViewCell.swift",
       "kind": "StringLiteral",
-      "offset": 8038,
+      "offset": 8489,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CommonFooterTableViewCell.swift",
       "kind": "StringLiteral",
-      "offset": 8717,
+      "offset": 9168,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CommonFooterTableViewCell.swift",
       "kind": "StringLiteral",
-      "offset": 8774,
+      "offset": 9225,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CommonFooterTableViewCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 8931,
+      "offset": 9382,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CommonFooterTableViewCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 9245,
+      "offset": 9696,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CommonFooterTableViewCell.swift",
       "kind": "StringLiteral",
-      "offset": 9488,
+      "offset": 9939,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CommonFooterTableViewCell.swift",
       "kind": "StringLiteral",
-      "offset": 9987,
+      "offset": 10438,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CommonFooterTableViewCell.swift",
       "kind": "StringLiteral",
-      "offset": 10044,
+      "offset": 10495,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CommonFooterTableViewCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 10193,
+      "offset": 10644,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/TableViewCells\/CommonFooterTableViewCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 10499,
+      "offset": 10950,
       "length": 2,
       "value": "14"
     },
@@ -18195,273 +18034,238 @@
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA3ViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1847,
+      "offset": 1967,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA3ViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2056,
+      "offset": 2176,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA3ViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2394,
+      "offset": 2514,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA3ViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2726,
+      "offset": 2846,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA3ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4607,
+      "offset": 4727,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA3ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4894,
+      "offset": 5014,
       "length": 4,
       "value": "true"
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA3ViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5402,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA3ViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5404,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA3ViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5406,
-      "length": 1,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA3ViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5524,
-      "length": 3,
-      "value": "150"
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA3ViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5530,
-      "length": 3,
-      "value": "130"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA3ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6388,
+      "offset": 6361,
       "length": 13,
       "value": "\"contentSize\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA3ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6569,
+      "offset": 6542,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA3ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6614,
+      "offset": 6587,
       "length": 3,
       "value": "\"2\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA3ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6659,
+      "offset": 6632,
       "length": 3,
       "value": "\"3\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA3ViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7333,
+      "offset": 7306,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA3ViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7345,
+      "offset": 7318,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA3ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7432,
+      "offset": 7405,
       "length": 8,
       "value": "\"CTA3A1\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA3ViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 8203,
+      "offset": 8176,
       "length": 3,
       "value": "0.7"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA3ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8258,
+      "offset": 8231,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA3ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8313,
+      "offset": 8286,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA3ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8455,
+      "offset": 8428,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA3ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8510,
+      "offset": 8483,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA3ViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 8612,
+      "offset": 8585,
       "length": 3,
       "value": "0.7"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA3ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8667,
+      "offset": 8640,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA3ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8721,
+      "offset": 8694,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA3ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9003,
+      "offset": 8976,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA3ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9244,
+      "offset": 9217,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA3ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9480,
+      "offset": 9453,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA3ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9639,
+      "offset": 9612,
       "length": 44,
       "value": "\"Selected Slot: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA3ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9682,
+      "offset": 9655,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA3ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9743,
+      "offset": 9716,
       "length": 9,
       "value": "\"content\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA3ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9777,
+      "offset": 9750,
       "length": 9,
       "value": "\"content\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA3ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9840,
+      "offset": 9813,
       "length": 6,
       "value": "\"pass\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA3ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9871,
+      "offset": 9844,
       "length": 6,
       "value": "\"pass\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA3ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9932,
+      "offset": 9905,
       "length": 14,
       "value": "\"subscription\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA3ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9971,
+      "offset": 9944,
       "length": 14,
       "value": "\"subscription\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA3ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 10160,
+      "offset": 10133,
       "length": 9,
       "value": "\"content\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA3ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 10325,
+      "offset": 10298,
       "length": 9,
       "value": "\"content\""
     },
@@ -18783,140 +18587,98 @@
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA4ViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1784,
+      "offset": 1904,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA4ViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1993,
+      "offset": 2113,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA4ViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2239,
+      "offset": 2359,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA4ViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2241,
+      "offset": 2361,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA4ViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2243,
+      "offset": 2363,
       "length": 1,
       "value": "3"
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA4ViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3011,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA4ViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3013,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA4ViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3015,
-      "length": 1,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA4ViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3017,
-      "length": 1,
-      "value": "3"
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA4ViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3135,
-      "length": 3,
-      "value": "150"
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA4ViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3141,
-      "length": 3,
-      "value": "130"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA4ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3834,
+      "offset": 3805,
       "length": 13,
       "value": "\"contentSize\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA4ViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 4249,
+      "offset": 4220,
       "length": 3,
       "value": "0.7"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA4ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4304,
+      "offset": 4275,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA4ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4359,
+      "offset": 4330,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA4ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4501,
+      "offset": 4472,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA4ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4556,
+      "offset": 4527,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA4ViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 4658,
+      "offset": 4629,
       "length": 3,
       "value": "0.7"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA4ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4713,
+      "offset": 4684,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/UI\/CTA4ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4767,
+      "offset": 4738,
       "length": 5,
       "value": "false"
     }
