@@ -1,0 +1,20 @@
+PODS:
+  - BluePine (0.1.7)
+  - IQKeyboardManagerSwift (6.5.12)
+
+DEPENDENCIES:
+  - BluePine (= 0.1.7)
+  - IQKeyboardManagerSwift
+
+SPEC REPOS:
+  trunk:
+    - BluePine
+    - IQKeyboardManagerSwift
+
+SPEC CHECKSUMS:
+  BluePine: 1ae0859fe1e1b5f5cb900d24108d793bd9e4f47f
+  IQKeyboardManagerSwift: 371b08cb39664fb56030f5345c815a4ffc74bbc0
+
+PODFILE CHECKSUM: 920731829ffe4a84c833b26358125ef5012ed6fa
+
+COCOAPODS: 1.12.1

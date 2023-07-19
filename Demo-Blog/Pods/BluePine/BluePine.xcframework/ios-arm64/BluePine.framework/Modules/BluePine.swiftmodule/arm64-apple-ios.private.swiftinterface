@@ -1,0 +1,52 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)
+// swift-module-flags: -target arm64-apple-ios13.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name BluePine
+import Combine
+import Foundation
+import Foundation/*.Bundle*/
+import Foundation/*.ProcessInfo*/
+import Foundation/*.URL*/
+import MessageUI
+import SafariServices
+import Swift
+import SwiftUI
+import UIKit
+import WebKit
+import _Concurrency
+import _StringProcessing
+@available(iOS 14.0, *)
+public struct BluePine {
+  public static func setPartnerIdAndUserId(partnerId: Swift.String, userId: Swift.String, url: Swift.String? = nil)
+  public static func startBluePine()
+  public static func startBluePine(viewController: UIKit.UIViewController)
+  public static func closeBluePine()
+  public static func registerAllFonts()
+}
+@available(iOS 13.0, *)
+extension SwiftUI.Color {
+  public static var dark01: SwiftUI.Color {
+    get
+  }
+  public static var dark02: SwiftUI.Color {
+    get
+  }
+  public static var dark03: SwiftUI.Color {
+    get
+  }
+  public static var dark04: SwiftUI.Color {
+    get
+  }
+  public static var dark05: SwiftUI.Color {
+    get
+  }
+  public static var light: SwiftUI.Color {
+    get
+  }
+  public static var success: SwiftUI.Color {
+    get
+  }
+  public static var alert: SwiftUI.Color {
+    get
+  }
+  public static var primaryColor: SwiftUI.Color
+}

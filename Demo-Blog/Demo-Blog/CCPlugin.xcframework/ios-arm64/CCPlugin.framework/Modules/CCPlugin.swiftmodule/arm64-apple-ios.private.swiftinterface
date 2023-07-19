@@ -1,0 +1,118 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)
+// swift-module-flags: -target arm64-apple-ios14.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name CCPlugin
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+@_exported import CCPlugin
+import CoreGraphics
+import CoreText
+import Foundation
+import SafariServices
+import Swift
+import SystemConfiguration
+import UIKit
+import WebKit
+import _Concurrency
+import _StringProcessing
+public protocol CCPluginCompletionHandlerDelegate : AnyObject {
+  func success()
+  func failure()
+  func purchasedOrNot(accessTime: Swift.Bool)
+}
+public protocol CCPluginSubscribeBtnTapDelegate : AnyObject {
+  func subscribeBtnTap()
+}
+public protocol CCPluginSignBtnTapDelegate : AnyObject {
+  func signInTap()
+}
+public protocol CCPluginUserDetailDelegate : AnyObject {
+  func success(successData: Swift.String)
+  func failure(error: Swift.String)
+}
+public protocol CCPluginUserDetailsDelegate : AnyObject {
+  func success(userDetails: Swift.String)
+  func failure(error: Swift.String)
+}
+public protocol CCPluginlogout : AnyObject {
+  func succes(successData: Swift.String)
+  func fail(error: Swift.String)
+}
+public protocol CCPluginAutoLogInDelegate : AnyObject {
+  func success()
+  func failure()
+}
+public enum Mode : Swift.String {
+  case stage
+  case sandbox
+  case production
+  case local
+  public init?(rawValue: Swift.String)
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+}
+@objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers final public class CCplugin : ObjectiveC.NSObject {
+  public static let shared: CCPlugin.CCplugin
+  final public var mode: CCPlugin.Mode
+  final public var debugMode: Swift.Bool
+  final public var accentColor: UIKit.UIColor
+  final public var pageLength: Swift.Int
+  final public var scrollDepth: Swift.Int
+  final public func configure(mode: CCPlugin.Mode = .stage, clientID: Swift.String)
+  final public func showPayWall(contentID: Swift.String, title: Swift.String? = nil, url: Swift.String? = nil, parentView: UIKit.UIView, completiondelegate: any CCPlugin.CCPluginCompletionHandlerDelegate, subscriberDelegate: (any CCPlugin.CCPluginSubscribeBtnTapDelegate)? = nil, signInDelegate: (any CCPlugin.CCPluginSignBtnTapDelegate)? = nil)
+  final public func initSubscriptions(contentID: Swift.String, title: Swift.String? = nil, url: Swift.String? = nil, parentView: UIKit.UIView, completiondelegate: any CCPlugin.CCPluginCompletionHandlerDelegate, subscriberDelegate: (any CCPlugin.CCPluginSubscribeBtnTapDelegate)? = nil, signInDelegate: (any CCPlugin.CCPluginSignBtnTapDelegate)? = nil, showCrossButton: Swift.Bool = false)
+  final public func autoLogIn(contentID: Swift.String, clientID: Swift.String, token: Swift.String, email: Swift.String? = "", phone: Swift.String? = "", parentView: UIKit.UIView, autoLogInDelegate: any CCPlugin.CCPluginAutoLogInDelegate)
+  final public func getUserDetail(contentID: Swift.String, completiondelegate: any CCPlugin.CCPluginUserDetailsDelegate)
+  final public func getlogout(logoutBtnDelegate: (any CCPlugin.CCPluginlogout)? = nil)
+  final public func exitSDK()
+  @objc deinit
+}
+extension CCPlugin.CCplugin {
+  final public func handleRelaunchApp(url: Foundation.URL)
+}
+extension UIKit.UIApplication {
+  @_Concurrency.MainActor(unsafe) public static var keyWindow: UIKit.UIWindow? {
+    get
+  }
+  @_Concurrency.MainActor(unsafe) public static var rootViewController: UIKit.UIViewController? {
+    get
+  }
+  @_Concurrency.MainActor(unsafe) public static var topMostViewController: UIKit.UIViewController? {
+    get
+  }
+  @_Concurrency.MainActor(unsafe) public static var presentedViewController: UIKit.UIViewController? {
+    get
+  }
+}
+extension UIKit.UIViewController {
+  @_Concurrency.MainActor(unsafe) public var visibleViewController: UIKit.UIViewController? {
+    get
+  }
+}
+extension UIKit.UIView {
+  @_Concurrency.MainActor(unsafe) public static func loadFromXib<T>(withOwner: Any? = nil, options: [UIKit.UINib.OptionsKey : Any]? = nil) -> T where T : UIKit.UIView
+}
+public struct ViewLayoutInfo {
+  public var vc: UIKit.UIViewController
+  public var view: UIKit.UIView
+  public init(vc: UIKit.UIViewController, view: UIKit.UIView)
+}
+public struct UserDetails : Swift.Codable {
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct Address : Swift.Codable {
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct Wallet : Swift.Codable {
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct Balance : Swift.Codable {
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+extension CCPlugin.Mode : Swift.Equatable {}
+extension CCPlugin.Mode : Swift.Hashable {}
+extension CCPlugin.Mode : Swift.RawRepresentable {}
