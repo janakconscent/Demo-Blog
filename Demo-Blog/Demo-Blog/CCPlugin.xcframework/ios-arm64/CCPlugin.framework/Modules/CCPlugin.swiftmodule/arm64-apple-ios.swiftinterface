@@ -57,7 +57,10 @@ public enum Mode : Swift.String {
   final public var debugMode: Swift.Bool
   final public var accentColor: UIKit.UIColor
   final public var pageLength: Swift.Int
-  final public var scrollDepth: Swift.Int
+  final public var scrollDepth: Swift.Int {
+    get
+    set
+  }
   final public func configure(mode: CCPlugin.Mode = .stage, clientID: Swift.String)
   final public func showPayWall(contentID: Swift.String, title: Swift.String? = nil, url: Swift.String? = nil, parentView: UIKit.UIView, completiondelegate: any CCPlugin.CCPluginCompletionHandlerDelegate, subscriberDelegate: (any CCPlugin.CCPluginSubscribeBtnTapDelegate)? = nil, signInDelegate: (any CCPlugin.CCPluginSignBtnTapDelegate)? = nil)
   final public func initSubscriptions(contentID: Swift.String, title: Swift.String? = nil, url: Swift.String? = nil, parentView: UIKit.UIView, completiondelegate: any CCPlugin.CCPluginCompletionHandlerDelegate, subscriberDelegate: (any CCPlugin.CCPluginSubscribeBtnTapDelegate)? = nil, signInDelegate: (any CCPlugin.CCPluginSignBtnTapDelegate)? = nil, showCrossButton: Swift.Bool = false)

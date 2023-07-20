@@ -7652,15 +7652,29 @@
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/PopUp\/PopUpView.swift",
+      "kind": "StringLiteral",
+      "offset": 4004,
+      "length": 13,
+      "value": "\"POPUP_CLOSE\""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/PopUp\/PopUpView.swift",
+      "kind": "StringLiteral",
+      "offset": 4476,
+      "length": 16,
+      "value": "\"POPUP_REDIRECT\""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/PopUp\/PopUpView.swift",
       "kind": "BooleanLiteral",
-      "offset": 4413,
+      "offset": 4606,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CustomPayWall\/PopUp\/PopUpView.swift",
       "kind": "StringLiteral",
-      "offset": 4476,
+      "offset": 4669,
       "length": 13,
       "value": "\"Invalid URL\""
     },
@@ -9753,1204 +9767,1176 @@
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
+      "offset": 1727,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1766,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
+      "kind": "StringLiteral",
+      "offset": 1800,
+      "length": 45,
+      "value": "\"Scroll depth changed to \""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
+      "kind": "StringLiteral",
+      "offset": 1844,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1992,
+      "length": 3,
+      "value": "100"
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
+      "kind": "StringLiteral",
+      "offset": 2014,
+      "length": 66,
+      "value": "\"Scroll depth percentage changed to \""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
+      "kind": "StringLiteral",
+      "offset": 2079,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
+      "kind": "IntegerLiteral",
       "offset": 1595,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2176,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2220,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 2660,
+      "offset": 3293,
       "length": 45,
       "value": "\"Supply client ID before using this function\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "BooleanLiteral",
-      "offset": 3033,
+      "offset": 3666,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 3165,
+      "offset": 3798,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 3191,
+      "offset": 3824,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "BooleanLiteral",
-      "offset": 3586,
+      "offset": 4219,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 3722,
+      "offset": 4355,
       "length": 45,
       "value": "\"Supply client ID before using this function\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 3885,
+      "offset": 4518,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 3906,
+      "offset": 4539,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 5698,
+      "offset": 6331,
       "length": 30,
       "value": "\"calling handleLoginChallenge\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "Dictionary",
-      "offset": 5900,
+      "offset": 6533,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
-      "offset": 6192,
+      "offset": 6825,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
-      "offset": 6197,
+      "offset": 6830,
       "length": 3,
       "value": "201"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 6459,
+      "offset": 7092,
       "length": 17,
       "value": "\"sessionID found\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
-      "offset": 6824,
+      "offset": 7457,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
-      "offset": 6979,
+      "offset": 7612,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 7167,
+      "offset": 7800,
       "length": 48,
       "value": "\"trackhandleLoginChallenge()::handleUserJourney\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
-      "offset": 7548,
+      "offset": 8181,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
-      "offset": 7969,
+      "offset": 8602,
       "length": 3,
       "value": "404"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 8633,
+      "offset": 9266,
       "length": 10,
       "value": "\"clientId\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 8691,
+      "offset": 9324,
       "length": 17,
       "value": "\"clientContentId\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 8757,
+      "offset": 9390,
       "length": 7,
       "value": "\"title\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 8775,
+      "offset": 9408,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 8815,
+      "offset": 9448,
       "length": 5,
       "value": "\"url\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 8829,
+      "offset": 9462,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 8909,
+      "offset": 9542,
       "length": 11,
       "value": "\"sessionId\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
-      "offset": 9367,
+      "offset": 10000,
       "length": 3,
       "value": "201"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "BooleanLiteral",
-      "offset": 9549,
+      "offset": 10182,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "BooleanLiteral",
-      "offset": 9639,
+      "offset": 10272,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
-      "offset": 9771,
+      "offset": 10404,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "BooleanLiteral",
-      "offset": 9858,
+      "offset": 10491,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "BooleanLiteral",
-      "offset": 10041,
+      "offset": 10674,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "BooleanLiteral",
-      "offset": 10105,
+      "offset": 10738,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 10214,
+      "offset": 10847,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 10345,
+      "offset": 10978,
       "length": 29,
       "value": "\"trackhandleLoginChallenge()\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
-      "offset": 10784,
+      "offset": 11417,
       "length": 3,
       "value": "404"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 11135,
+      "offset": 11768,
       "length": 10,
       "value": "\"clientId\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 11193,
+      "offset": 11826,
       "length": 8,
       "value": "\"anonId\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 11280,
+      "offset": 11913,
       "length": 9,
       "value": "\"adBlock\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 11291,
+      "offset": 11924,
       "length": 7,
       "value": "\"false\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 11336,
+      "offset": 11969,
       "length": 9,
       "value": "\"cookies\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 11347,
+      "offset": 11980,
       "length": 3,
       "value": "\"0\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 11388,
+      "offset": 12021,
       "length": 17,
       "value": "\"clientContentId\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 11454,
+      "offset": 12087,
       "length": 11,
       "value": "\"sessionId\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 11467,
+      "offset": 12100,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 11507,
+      "offset": 12140,
       "length": 8,
       "value": "\"device\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 11517,
+      "offset": 12150,
       "length": 13,
       "value": "\"application\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 11568,
+      "offset": 12201,
       "length": 17,
       "value": "\"operatingSystem\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 11587,
+      "offset": 12220,
       "length": 5,
       "value": "\"IOS\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 11630,
+      "offset": 12263,
       "length": 9,
       "value": "\"browser\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 11641,
+      "offset": 12274,
       "length": 9,
       "value": "\"WEBVIEW\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 11688,
+      "offset": 12321,
       "length": 8,
       "value": "\"userId\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 11792,
+      "offset": 12425,
       "length": 11,
       "value": "\"sessionId\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
-      "offset": 12187,
+      "offset": 12820,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
-      "offset": 12192,
+      "offset": 12825,
       "length": 3,
       "value": "201"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "BooleanLiteral",
-      "offset": 12577,
+      "offset": 13210,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "BooleanLiteral",
-      "offset": 12764,
+      "offset": 13397,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
-      "offset": 12909,
+      "offset": 13542,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
-      "offset": 12913,
+      "offset": 13546,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "BooleanLiteral",
-      "offset": 13004,
+      "offset": 13637,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "BooleanLiteral",
-      "offset": 13203,
+      "offset": 13836,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "BooleanLiteral",
-      "offset": 13271,
+      "offset": 13904,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 13388,
+      "offset": 14021,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 13531,
+      "offset": 14164,
       "length": 48,
       "value": "\"trackhandleUserJourney::handleLoginChallenge()\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "BooleanLiteral",
-      "offset": 14015,
+      "offset": 14648,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "BooleanLiteral",
-      "offset": 14169,
+      "offset": 14802,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 14231,
+      "offset": 14864,
       "length": 6,
       "value": "\"PASS\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "BooleanLiteral",
-      "offset": 14317,
+      "offset": 14950,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 14379,
+      "offset": 15012,
       "length": 5,
       "value": "\"SUB\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 14477,
+      "offset": 15110,
       "length": 9,
       "value": "\"CONTENT\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
-      "offset": 14698,
+      "offset": 15331,
       "length": 3,
       "value": "404"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 15027,
+      "offset": 15660,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 15048,
+      "offset": 15681,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 16499,
+      "offset": 17132,
       "length": 10,
       "value": "\"clientId\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 16557,
+      "offset": 17190,
       "length": 17,
       "value": "\"clientContentId\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 16623,
+      "offset": 17256,
       "length": 7,
       "value": "\"title\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 16641,
+      "offset": 17274,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 16681,
+      "offset": 17314,
       "length": 5,
       "value": "\"url\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 16695,
+      "offset": 17328,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 16767,
+      "offset": 17408,
       "length": 11,
       "value": "\"sessionId\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
-      "offset": 17162,
+      "offset": 17811,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
-      "offset": 17167,
+      "offset": 17816,
       "length": 3,
       "value": "201"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "Dictionary",
-      "offset": 17355,
+      "offset": 18004,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 17561,
+      "offset": 18210,
       "length": 7,
       "value": "\"error\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "BooleanLiteral",
-      "offset": 17659,
+      "offset": 18308,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 17767,
+      "offset": 18416,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "BooleanLiteral",
-      "offset": 18072,
+      "offset": 18721,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 18352,
+      "offset": 19001,
       "length": 87,
       "value": "\"Type mismatch error: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 18380,
+      "offset": 19029,
       "length": 1,
       "value": "\", value \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 18396,
+      "offset": 19045,
       "length": 1,
       "value": "\", and ERROR: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 18438,
+      "offset": 19087,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 18545,
+      "offset": 19194,
       "length": 89,
       "value": "\"Value not found error: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 18575,
+      "offset": 19224,
       "length": 1,
       "value": "\", value \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 18591,
+      "offset": 19240,
       "length": 1,
       "value": "\", and ERROR: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 18633,
+      "offset": 19282,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 18738,
+      "offset": 19387,
       "length": 87,
       "value": "\"Key not found error: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 18766,
+      "offset": 19415,
       "length": 1,
       "value": "\", value \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 18782,
+      "offset": 19431,
       "length": 1,
       "value": "\", and ERROR: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 18824,
+      "offset": 19473,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 18920,
+      "offset": 19569,
       "length": 72,
       "value": "\"Data corrupted error: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 18949,
+      "offset": 19598,
       "length": 1,
       "value": "\", and ERROR: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 18991,
+      "offset": 19640,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 19066,
+      "offset": 19715,
       "length": 47,
       "value": "\"Decoding error: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 19112,
+      "offset": 19761,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
-      "offset": 19276,
+      "offset": 19925,
       "length": 3,
       "value": "404"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 19692,
+      "offset": 20341,
       "length": 12,
       "value": "\"redirectTo\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 19706,
+      "offset": 20355,
       "length": 33,
       "value": "\"conscent:\/\/home?id=\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 19738,
+      "offset": 20387,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 19818,
+      "offset": 20467,
       "length": 18,
       "value": "\"loginChallengeId\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
-      "offset": 20315,
+      "offset": 20964,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
-      "offset": 20320,
+      "offset": 20969,
       "length": 3,
       "value": "201"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 21072,
+      "offset": 21721,
       "length": 12,
       "value": "\"redirectTo\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 21086,
+      "offset": 21735,
       "length": 33,
       "value": "\"conscent:\/\/home?id=\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 21118,
+      "offset": 21767,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 21198,
+      "offset": 21847,
       "length": 18,
       "value": "\"loginChallengeId\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
-      "offset": 21682,
+      "offset": 22331,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
-      "offset": 21687,
+      "offset": 22336,
       "length": 3,
       "value": "201"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 22015,
+      "offset": 22664,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 22036,
+      "offset": 22685,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 22111,
+      "offset": 22760,
       "length": 12,
       "value": "\"redirectTo\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 22125,
+      "offset": 22774,
       "length": 33,
       "value": "\"conscent:\/\/home?id=\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 22157,
+      "offset": 22806,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 22237,
+      "offset": 22886,
       "length": 18,
       "value": "\"loginChallengeId\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
-      "offset": 22734,
+      "offset": 23379,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
-      "offset": 22739,
+      "offset": 23384,
       "length": 3,
       "value": "201"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 23025,
+      "offset": 23670,
       "length": 24,
       "value": "\"logout................\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 23134,
+      "offset": 23779,
       "length": 11,
       "value": "\"sessionId\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
-      "offset": 23471,
+      "offset": 24116,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
-      "offset": 23476,
+      "offset": 24121,
       "length": 3,
       "value": "201"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 23710,
+      "offset": 24355,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 23928,
+      "offset": 24573,
       "length": 87,
       "value": "\"Type mismatch error: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 23956,
+      "offset": 24601,
       "length": 1,
       "value": "\", value \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 23972,
+      "offset": 24617,
       "length": 1,
       "value": "\", and ERROR: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 24014,
+      "offset": 24659,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 24129,
+      "offset": 24774,
       "length": 89,
       "value": "\"Value not found error: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 24159,
+      "offset": 24804,
       "length": 1,
       "value": "\", value \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 24175,
+      "offset": 24820,
       "length": 1,
       "value": "\", and ERROR: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 24217,
+      "offset": 24862,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 24330,
+      "offset": 24975,
       "length": 87,
       "value": "\"Key not found error: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 24358,
+      "offset": 25003,
       "length": 1,
       "value": "\", value \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 24374,
+      "offset": 25019,
       "length": 1,
       "value": "\", and ERROR: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 24416,
+      "offset": 25061,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 24520,
+      "offset": 25165,
       "length": 72,
       "value": "\"Data corrupted error: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 24549,
+      "offset": 25194,
       "length": 1,
       "value": "\", and ERROR: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 24591,
+      "offset": 25236,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 24674,
+      "offset": 25319,
       "length": 47,
       "value": "\"Decoding error: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 24720,
+      "offset": 25365,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 24826,
+      "offset": 25471,
       "length": 26,
       "value": "\"Decoding error: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 24851,
+      "offset": 25496,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
-      "offset": 24905,
+      "offset": 25550,
       "length": 3,
       "value": "404"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 25306,
+      "offset": 25951,
       "length": 10,
       "value": "\"clientId\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 25364,
+      "offset": 26009,
       "length": 17,
       "value": "\"clientContentId\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 25462,
+      "offset": 26115,
       "length": 11,
       "value": "\"sessionId\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
-      "offset": 25852,
+      "offset": 26513,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
-      "offset": 25857,
+      "offset": 26518,
       "length": 3,
       "value": "201"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 26391,
+      "offset": 27052,
       "length": 87,
       "value": "\"Type mismatch error: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 26419,
+      "offset": 27080,
       "length": 1,
       "value": "\", value \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 26435,
+      "offset": 27096,
       "length": 1,
       "value": "\", and ERROR: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 26477,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
-      "kind": "StringLiteral",
-      "offset": 26584,
-      "length": 89,
-      "value": "\"Value not found error: \""
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
-      "kind": "StringLiteral",
-      "offset": 26614,
-      "length": 1,
-      "value": "\", value \""
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
-      "kind": "StringLiteral",
-      "offset": 26630,
-      "length": 1,
-      "value": "\", and ERROR: \""
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
-      "kind": "StringLiteral",
-      "offset": 26672,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
-      "kind": "StringLiteral",
-      "offset": 26777,
-      "length": 87,
-      "value": "\"Key not found error: \""
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
-      "kind": "StringLiteral",
-      "offset": 26805,
-      "length": 1,
-      "value": "\", value \""
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
-      "kind": "StringLiteral",
-      "offset": 26821,
-      "length": 1,
-      "value": "\", and ERROR: \""
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
-      "kind": "StringLiteral",
-      "offset": 26863,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
-      "kind": "StringLiteral",
-      "offset": 26959,
-      "length": 72,
-      "value": "\"Data corrupted error: \""
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
-      "kind": "StringLiteral",
-      "offset": 26988,
-      "length": 1,
-      "value": "\", and ERROR: \""
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
-      "kind": "StringLiteral",
-      "offset": 27030,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
-      "kind": "StringLiteral",
-      "offset": 27105,
-      "length": 47,
-      "value": "\"Decoding error: \""
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
-      "kind": "StringLiteral",
-      "offset": 27151,
+      "offset": 27138,
       "length": 2,
       "value": "\"\""
     },
@@ -10958,1658 +10944,1805 @@
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
       "offset": 27245,
+      "length": 89,
+      "value": "\"Value not found error: \""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
+      "kind": "StringLiteral",
+      "offset": 27275,
+      "length": 1,
+      "value": "\", value \""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
+      "kind": "StringLiteral",
+      "offset": 27291,
+      "length": 1,
+      "value": "\", and ERROR: \""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
+      "kind": "StringLiteral",
+      "offset": 27333,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
+      "kind": "StringLiteral",
+      "offset": 27438,
+      "length": 87,
+      "value": "\"Key not found error: \""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
+      "kind": "StringLiteral",
+      "offset": 27466,
+      "length": 1,
+      "value": "\", value \""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
+      "kind": "StringLiteral",
+      "offset": 27482,
+      "length": 1,
+      "value": "\", and ERROR: \""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
+      "kind": "StringLiteral",
+      "offset": 27524,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
+      "kind": "StringLiteral",
+      "offset": 27620,
+      "length": 72,
+      "value": "\"Data corrupted error: \""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
+      "kind": "StringLiteral",
+      "offset": 27649,
+      "length": 1,
+      "value": "\", and ERROR: \""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
+      "kind": "StringLiteral",
+      "offset": 27691,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
+      "kind": "StringLiteral",
+      "offset": 27766,
+      "length": 47,
+      "value": "\"Decoding error: \""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
+      "kind": "StringLiteral",
+      "offset": 27812,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
+      "kind": "StringLiteral",
+      "offset": 27906,
       "length": 26,
       "value": "\"Decoding error: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 27270,
+      "offset": 27931,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
-      "offset": 27316,
+      "offset": 27977,
       "length": 3,
       "value": "404"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 27753,
+      "offset": 28414,
       "length": 9,
       "value": "\"overlay\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 27800,
+      "offset": 28461,
       "length": 10,
       "value": "\"clientId\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 27863,
+      "offset": 28524,
       "length": 17,
       "value": "\"clientContentId\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 27934,
+      "offset": 28595,
       "length": 13,
       "value": "\"paywallType\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 28044,
+      "offset": 28705,
       "length": 16,
       "value": "\"loginChallenge\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 28144,
+      "offset": 28805,
       "length": 14,
       "value": "\"purchaseMode\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 28162,
+      "offset": 28823,
       "length": 6,
       "value": "\"PASS\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 28702,
+      "offset": 29363,
       "length": 9,
       "value": "\"overlay\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 28749,
+      "offset": 29410,
       "length": 10,
       "value": "\"clientId\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 28812,
+      "offset": 29473,
       "length": 17,
       "value": "\"clientContentId\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 28883,
+      "offset": 29544,
       "length": 13,
       "value": "\"paywallType\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 28993,
+      "offset": 29654,
       "length": 16,
       "value": "\"loginChallenge\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 29069,
+      "offset": 29722,
       "length": 13,
       "value": "\"userDetails\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 29219,
+      "offset": 29872,
       "length": 22,
       "value": "\"webviewURL:\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 29240,
+      "offset": 29893,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 29447,
+      "offset": 30100,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 29468,
+      "offset": 30121,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 29637,
+      "offset": 30290,
       "length": 17,
       "value": "\"auto-login-user\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 29692,
+      "offset": 30345,
       "length": 4,
       "value": "\"id\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 29741,
+      "offset": 30394,
       "length": 10,
       "value": "\"clientId\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 29839,
+      "offset": 30492,
       "length": 7,
       "value": "\"email\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 29940,
+      "offset": 30593,
       "length": 7,
       "value": "\"phone\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 30047,
+      "offset": 30700,
       "length": 18,
       "value": "\"loginChallengeId\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "BooleanLiteral",
-      "offset": 30308,
+      "offset": 30961,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 30577,
+      "offset": 31230,
       "length": 35,
       "value": "\"&loginChallenge=\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 30611,
+      "offset": 31264,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 30937,
+      "offset": 31590,
       "length": 14,
       "value": "\"subscription\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 30988,
+      "offset": 31641,
       "length": 10,
       "value": "\"clientId\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 31046,
+      "offset": 31699,
       "length": 17,
       "value": "\"clientContentId\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 31112,
+      "offset": 31765,
       "length": 8,
       "value": "\"tierId\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 31166,
+      "offset": 31819,
       "length": 16,
       "value": "\"availFreeTrial\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 31184,
+      "offset": 31837,
       "length": 64,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "BooleanLiteral",
-      "offset": 31208,
+      "offset": 31861,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 31214,
+      "offset": 31867,
       "length": 1,
       "value": "\" &siteUrl=https:\/\/conscentsss.com\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 31327,
+      "offset": 31980,
       "length": 16,
       "value": "\"loginChallenge\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "BooleanLiteral",
-      "offset": 31772,
+      "offset": 32425,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 31852,
+      "offset": 32505,
       "length": 14,
       "value": "\"com.CCPlugin\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 31916,
+      "offset": 32569,
       "length": 20,
       "value": "\"CCPluginStoryboard\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 32029,
+      "offset": 32682,
       "length": 7,
       "value": "\"WebVC\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 32270,
+      "offset": 32923,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "BooleanLiteral",
-      "offset": 32413,
+      "offset": 33066,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 32542,
+      "offset": 33195,
       "length": 10,
       "value": "\"conscent\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "FloatLiteral",
-      "offset": 32683,
+      "offset": 33336,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
-      "offset": 32913,
+      "offset": 33566,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
-      "offset": 33179,
+      "offset": 33832,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
-      "offset": 33184,
+      "offset": 33837,
       "length": 3,
       "value": "201"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 33393,
+      "offset": 34046,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 33673,
+      "offset": 34326,
       "length": 87,
       "value": "\"Type mismatch error: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 33701,
+      "offset": 34354,
       "length": 1,
       "value": "\", value \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 33717,
+      "offset": 34370,
       "length": 1,
       "value": "\", and ERROR: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 33759,
+      "offset": 34412,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 33866,
+      "offset": 34519,
       "length": 89,
       "value": "\"Value not found error: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 33896,
+      "offset": 34549,
       "length": 1,
       "value": "\", value \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 33912,
+      "offset": 34565,
       "length": 1,
       "value": "\", and ERROR: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 33954,
+      "offset": 34607,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 34059,
+      "offset": 34712,
       "length": 87,
       "value": "\"Key not found error: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 34087,
+      "offset": 34740,
       "length": 1,
       "value": "\", value \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 34103,
+      "offset": 34756,
       "length": 1,
       "value": "\", and ERROR: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 34145,
+      "offset": 34798,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 34241,
+      "offset": 34894,
       "length": 72,
       "value": "\"Data corrupted error: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 34270,
+      "offset": 34923,
       "length": 1,
       "value": "\", and ERROR: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 34312,
+      "offset": 34965,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 34387,
+      "offset": 35040,
       "length": 47,
       "value": "\"Decoding error: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 34433,
+      "offset": 35086,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
-      "offset": 34597,
+      "offset": 35250,
       "length": 3,
       "value": "404"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 34890,
+      "offset": 35543,
       "length": 10,
       "value": "\"clientId\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
-      "offset": 35271,
+      "offset": 35924,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
-      "offset": 35276,
+      "offset": 35929,
       "length": 3,
       "value": "201"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 35692,
+      "offset": 36345,
       "length": 87,
       "value": "\"Type mismatch error: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 35720,
+      "offset": 36373,
       "length": 1,
       "value": "\", value \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 35736,
+      "offset": 36389,
       "length": 1,
       "value": "\", and ERROR: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 35778,
+      "offset": 36431,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 35885,
+      "offset": 36538,
       "length": 89,
       "value": "\"Value not found error: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 35915,
+      "offset": 36568,
       "length": 1,
       "value": "\", value \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 35931,
+      "offset": 36584,
       "length": 1,
       "value": "\", and ERROR: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 35973,
+      "offset": 36626,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 36078,
+      "offset": 36731,
       "length": 87,
       "value": "\"Key not found error: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 36106,
+      "offset": 36759,
       "length": 1,
       "value": "\", value \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 36122,
+      "offset": 36775,
       "length": 1,
       "value": "\", and ERROR: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 36164,
+      "offset": 36817,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 36260,
+      "offset": 36913,
       "length": 72,
       "value": "\"Data corrupted error: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 36289,
+      "offset": 36942,
       "length": 1,
       "value": "\", and ERROR: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 36331,
+      "offset": 36984,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 36406,
+      "offset": 37059,
       "length": 47,
       "value": "\"Decoding error: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 36452,
+      "offset": 37105,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
-      "offset": 36616,
+      "offset": 37269,
       "length": 3,
       "value": "404"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 37186,
+      "offset": 37839,
       "length": 9,
       "value": "\"CONTENT\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 37607,
+      "offset": 38260,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 37666,
+      "offset": 38319,
       "length": 9,
       "value": "\"CONTENT\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 37884,
+      "offset": 38537,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 37943,
+      "offset": 38596,
       "length": 6,
       "value": "\"PASS\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 38312,
+      "offset": 38965,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 38371,
+      "offset": 39024,
       "length": 6,
       "value": "\"SUBS\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "BooleanLiteral",
-      "offset": 40473,
+      "offset": 41126,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "BooleanLiteral",
-      "offset": 40522,
+      "offset": 41175,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "BooleanLiteral",
-      "offset": 40701,
+      "offset": 41354,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "BooleanLiteral",
-      "offset": 40750,
+      "offset": 41403,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
-      "offset": 41098,
+      "offset": 41751,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
+      "kind": "IntegerLiteral",
+      "offset": 41775,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
+      "kind": "IntegerLiteral",
+      "offset": 41809,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
+      "kind": "BooleanLiteral",
+      "offset": 41839,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 42173,
+      "offset": 42917,
       "length": 40,
       "value": "\"trackstartProcess()::handleUserJourney\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 42421,
+      "offset": 43165,
       "length": 43,
       "value": "\"trackstartProcess::handleLoginChallenge()\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
-      "offset": 42754,
+      "offset": 43498,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 43265,
+      "offset": 44013,
       "length": 14,
       "value": "\"com.CCPlugin\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 43325,
+      "offset": 44073,
       "length": 20,
       "value": "\"CCPluginStoryboard\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 43438,
+      "offset": 44186,
       "length": 18,
       "value": "\"CCPluginStatusVC\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "BooleanLiteral",
-      "offset": 43773,
+      "offset": 44521,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "BooleanLiteral",
-      "offset": 43781,
+      "offset": 44529,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "BooleanLiteral",
-      "offset": 43850,
+      "offset": 44598,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "BooleanLiteral",
-      "offset": 43858,
+      "offset": 44606,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "BooleanLiteral",
-      "offset": 43937,
+      "offset": 44685,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "BooleanLiteral",
-      "offset": 43944,
+      "offset": 44692,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 44053,
+      "offset": 44801,
       "length": 3,
       "value": "\"0\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "BooleanLiteral",
-      "offset": 44377,
+      "offset": 45120,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
-      "offset": 44442,
+      "offset": 45188,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
+      "kind": "BooleanLiteral",
+      "offset": 45415,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
+      "kind": "IntegerLiteral",
+      "offset": 45501,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 44768,
+      "offset": 45597,
+      "length": 9,
+      "value": "\"percent\""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
+      "kind": "StringLiteral",
+      "offset": 45790,
+      "length": 8,
+      "value": "\"pixels\""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
+      "kind": "IntegerLiteral",
+      "offset": 46042,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
+      "kind": "StringLiteral",
+      "offset": 46345,
       "length": 8,
       "value": "\"mobile\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 44804,
+      "offset": 46381,
       "length": 8,
       "value": "\"active\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
-      "kind": "StringLiteral",
-      "offset": 45495,
-      "length": 27,
-      "value": "\"Not required to showPopUp\""
+      "kind": "BooleanLiteral",
+      "offset": 46917,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 45856,
+      "offset": 47409,
       "length": 11,
       "value": "\"reloadSDK\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 46711,
+      "offset": 48264,
       "length": 14,
       "value": "\"com.CCPlugin\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 46771,
+      "offset": 48324,
       "length": 20,
       "value": "\"CCPluginStoryboard\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 46889,
+      "offset": 48442,
       "length": 16,
       "value": "\"SubscriptionVC\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "BooleanLiteral",
-      "offset": 47210,
+      "offset": 48763,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "BooleanLiteral",
-      "offset": 47217,
+      "offset": 48770,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "BooleanLiteral",
-      "offset": 47262,
+      "offset": 48815,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "BooleanLiteral",
-      "offset": 47335,
+      "offset": 48888,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "BooleanLiteral",
-      "offset": 47389,
+      "offset": 48942,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 47808,
+      "offset": 49361,
       "length": 53,
       "value": "\"generateLoginChallenge(\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 47859,
+      "offset": 49412,
       "length": 1,
       "value": "\")\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "BooleanLiteral",
-      "offset": 47984,
+      "offset": 49537,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
-      "offset": 48131,
+      "offset": 49684,
       "length": 2,
       "value": "15"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "BooleanLiteral",
-      "offset": 48182,
+      "offset": 49735,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "BooleanLiteral",
-      "offset": 48312,
+      "offset": 49865,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
-      "offset": 48631,
+      "offset": 50184,
       "length": 4,
       "value": "9988"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 48836,
+      "offset": 50389,
       "length": 20,
       "value": "\"No paywallId found\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 49078,
+      "offset": 50631,
       "length": 22,
       "value": "\"No paywallType found\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 49408,
+      "offset": 50961,
       "length": 14,
       "value": "\"No CTA found\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 49606,
+      "offset": 51159,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 49717,
+      "offset": 51270,
       "length": 12,
       "value": "\"TEMPLATE3A\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 49867,
+      "offset": 51420,
       "length": 12,
       "value": "\"TEMPLATE4A\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 50017,
+      "offset": 51570,
       "length": 12,
       "value": "\"TEMPLATE5A\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 50167,
+      "offset": 51720,
       "length": 12,
       "value": "\"TEMPLATE7A\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 50317,
+      "offset": 51870,
       "length": 12,
       "value": "\"TEMPLATE8A\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 50538,
+      "offset": 52091,
       "length": 24,
       "value": "\"TEMPLATE\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 50561,
+      "offset": 52114,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 51024,
+      "offset": 52576,
       "length": 32,
       "value": "\"EEE MMM d yyyy HH:mm:ss 'GMT'Z\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
-      "offset": 51285,
+      "offset": 52837,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 51465,
+      "offset": 53017,
       "length": 13,
       "value": "\"TEMPLATE13A\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 51599,
+      "offset": 53151,
       "length": 13,
       "value": "\"TEMPLATE15A\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 51739,
+      "offset": 53291,
       "length": 33,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 51754,
+      "offset": 53306,
       "length": 1,
       "value": "\"::Default Paywall\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 52391,
+      "offset": 53943,
       "length": 11,
       "value": "\"paywallId\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
-      "offset": 52792,
+      "offset": 54344,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
-      "offset": 52797,
+      "offset": 54349,
       "length": 3,
       "value": "201"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "Array",
-      "offset": 53577,
+      "offset": 55129,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 62214,
+      "offset": 63766,
       "length": 20,
       "value": "\"FontFamily values:\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 62641,
+      "offset": 64193,
       "length": 14,
       "value": "\"-Regular.ttf\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
-      "offset": 62774,
+      "offset": 64326,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 62977,
+      "offset": 64529,
       "length": 64,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 62993,
+      "offset": 64545,
       "length": 4,
       "value": "\" file already exists in the document directory.\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 63556,
+      "offset": 65108,
       "length": 43,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 63564,
+      "offset": 65116,
       "length": 10,
       "value": "\" downloaded and saved successfully\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 63697,
+      "offset": 65249,
       "length": 46,
       "value": "\"Error downloading or saving the \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 63737,
+      "offset": 65289,
       "length": 4,
       "value": "\" file\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 64066,
+      "offset": 65618,
       "length": 43,
       "value": "\"All font downloads completed successfully\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 64173,
+      "offset": 65725,
       "length": 30,
       "value": "\"fallback to default paywall!\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 64249,
+      "offset": 65801,
       "length": 17,
       "value": "\"default paywall\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 64755,
+      "offset": 66307,
       "length": 71,
       "value": "\"error \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 64768,
+      "offset": 66320,
       "length": 1,
       "value": "\", value \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 64784,
+      "offset": 66336,
       "length": 3,
       "value": "\" and ERROR: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 64825,
+      "offset": 66377,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 64932,
+      "offset": 66484,
       "length": 71,
       "value": "\"error \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 64945,
+      "offset": 66497,
       "length": 1,
       "value": "\", value \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 64961,
+      "offset": 66513,
       "length": 3,
       "value": "\" and ERROR: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 65002,
+      "offset": 66554,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 65107,
+      "offset": 66659,
       "length": 71,
       "value": "\"error \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 65120,
+      "offset": 66672,
       "length": 1,
       "value": "\", value \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 65136,
+      "offset": 66688,
       "length": 3,
       "value": "\" and ERROR: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 65177,
+      "offset": 66729,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 65273,
+      "offset": 66825,
       "length": 56,
       "value": "\"error \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 65286,
+      "offset": 66838,
       "length": 1,
       "value": "\", and ERROR: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 65328,
+      "offset": 66880,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 65403,
+      "offset": 66955,
       "length": 38,
       "value": "\"ERROR: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 65440,
+      "offset": 66992,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
-      "offset": 65604,
+      "offset": 67156,
       "length": 3,
       "value": "404"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 65928,
+      "offset": 67480,
       "length": 3,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 66420,
+      "offset": 67972,
       "length": 28,
       "value": "\"Showing in-article paywall\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 66565,
+      "offset": 68117,
       "length": 27,
       "value": "\"Showing full-page paywall\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 66703,
+      "offset": 68255,
       "length": 23,
       "value": "\"Showing popup paywall\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 66817,
+      "offset": 68369,
       "length": 28,
       "value": "\"Showing in-article paywall\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
-      "offset": 66965,
+      "offset": 68517,
       "length": 4,
       "value": "9988"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "BooleanLiteral",
-      "offset": 67079,
+      "offset": 68631,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "BooleanLiteral",
-      "offset": 67393,
+      "offset": 68945,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "Dictionary",
-      "offset": 67894,
+      "offset": 69446,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
-      "offset": 68186,
+      "offset": 69738,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
-      "offset": 68191,
+      "offset": 69743,
       "length": 3,
       "value": "201"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 68418,
+      "offset": 69970,
       "length": 22,
       "value": "\"PopUpModel::\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 68439,
+      "offset": 69991,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 68657,
+      "offset": 70209,
       "length": 71,
       "value": "\"error \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 68670,
+      "offset": 70222,
       "length": 1,
       "value": "\", value \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 68686,
+      "offset": 70238,
       "length": 3,
       "value": "\" and ERROR: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 68727,
+      "offset": 70279,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 68842,
+      "offset": 70394,
       "length": 71,
       "value": "\"error \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 68855,
+      "offset": 70407,
       "length": 1,
       "value": "\", value \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 68871,
+      "offset": 70423,
       "length": 3,
       "value": "\" and ERROR: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 68912,
+      "offset": 70464,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 69025,
+      "offset": 70577,
       "length": 71,
       "value": "\"error \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 69038,
+      "offset": 70590,
       "length": 1,
       "value": "\", value \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 69054,
+      "offset": 70606,
       "length": 3,
       "value": "\" and ERROR: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 69095,
+      "offset": 70647,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 69199,
+      "offset": 70751,
       "length": 56,
       "value": "\"error \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 69212,
+      "offset": 70764,
       "length": 1,
       "value": "\", and ERROR: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 69254,
+      "offset": 70806,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 69337,
+      "offset": 70889,
       "length": 38,
       "value": "\"ERROR: \""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 69374,
+      "offset": 70926,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "IntegerLiteral",
-      "offset": 69558,
+      "offset": 71110,
       "length": 3,
       "value": "404"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 70096,
+      "offset": 71648,
       "length": 4,
       "value": "\"3A\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 70125,
+      "offset": 71677,
       "length": 4,
       "value": "\"4A\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 70154,
+      "offset": 71706,
       "length": 4,
       "value": "\"5A\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 70183,
+      "offset": 71735,
       "length": 4,
       "value": "\"7A\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 70212,
+      "offset": 71764,
       "length": 4,
       "value": "\"8A\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 70241,
+      "offset": 71793,
       "length": 5,
       "value": "\"RG4\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 70271,
+      "offset": 71823,
       "length": 5,
       "value": "\"RG5\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 70301,
+      "offset": 71853,
       "length": 5,
       "value": "\"RG6\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 70331,
+      "offset": 71883,
       "length": 5,
       "value": "\"13A\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 70361,
+      "offset": 71913,
       "length": 5,
       "value": "\"15A\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 70096,
+      "offset": 71648,
       "length": 4,
       "value": "\"3A\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 70125,
+      "offset": 71677,
       "length": 4,
       "value": "\"4A\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 70154,
+      "offset": 71706,
       "length": 4,
       "value": "\"5A\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 70183,
+      "offset": 71735,
       "length": 4,
       "value": "\"7A\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 70212,
+      "offset": 71764,
       "length": 4,
       "value": "\"8A\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 70241,
+      "offset": 71793,
       "length": 5,
       "value": "\"RG4\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 70271,
+      "offset": 71823,
       "length": 5,
       "value": "\"RG5\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 70301,
+      "offset": 71853,
       "length": 5,
       "value": "\"RG6\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 70331,
+      "offset": 71883,
       "length": 5,
       "value": "\"13A\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/CCPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 70361,
+      "offset": 71913,
       "length": 5,
       "value": "\"15A\""
     },
@@ -16773,554 +16906,680 @@
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
+      "kind": "StringLiteral",
+      "offset": 390,
+      "length": 76,
+      "value": "\"~~~~~Event Name = \""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
+      "kind": "StringLiteral",
+      "offset": 434,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
+      "kind": "StringLiteral",
+      "offset": 460,
+      "length": 5,
+      "value": "\"~~~~~\""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 1609,
+      "offset": 1607,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 1891,
+      "offset": 1889,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 1930,
+      "offset": 1928,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
+      "kind": "StringLiteral",
+      "offset": 2026,
+      "length": 28,
+      "value": "\"~~~~~Event Parameters~~~~~\""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 2427,
+      "offset": 2421,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 2432,
+      "offset": 2426,
       "length": 3,
       "value": "201"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 2464,
+      "offset": 2458,
       "length": 11,
       "value": "\"Log Event\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 2494,
+      "offset": 2488,
       "length": 3,
       "value": "404"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 2791,
+      "offset": 2785,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 2995,
+      "offset": 2989,
       "length": 8,
       "value": "\"MOBILE\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 3109,
+      "offset": 3103,
       "length": 5,
       "value": "\"IOS\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 3254,
+      "offset": 3248,
       "length": 11,
       "value": "\"userAgent\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 3270,
+      "offset": 3264,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 3801,
+      "offset": 3795,
       "length": 5,
       "value": "\"APP\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 4113,
+      "offset": 4107,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 4344,
+      "offset": 4338,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "Array",
-      "offset": 4439,
+      "offset": 4433,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 4533,
+      "offset": 4527,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 4586,
+      "offset": 4580,
       "length": 7,
       "value": "\"topic\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 4595,
+      "offset": 4589,
       "length": 11,
       "value": "\"demoTopic\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 4649,
+      "offset": 4643,
       "length": 13,
       "value": "\"messageBody\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 4666,
+      "offset": 4660,
       "length": 5,
       "value": "\"_id\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 4735,
+      "offset": 4729,
       "length": 8,
       "value": "\"anonId\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 4811,
+      "offset": 4805,
       "length": 12,
       "value": "\"deviceType\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 4895,
+      "offset": 4889,
       "length": 13,
       "value": "\"mobileModel\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 4981,
+      "offset": 4975,
       "length": 8,
       "value": "\"osName\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 5057,
+      "offset": 5051,
       "length": 11,
       "value": "\"osVersion\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 5139,
+      "offset": 5133,
       "length": 11,
       "value": "\"userAgent\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 5221,
+      "offset": 5215,
       "length": 10,
       "value": "\"clientId\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 5301,
+      "offset": 5295,
       "length": 11,
       "value": "\"contentId\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 5383,
+      "offset": 5377,
       "length": 8,
       "value": "\"userId\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 5459,
+      "offset": 5453,
       "length": 15,
       "value": "\"eventLocation\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 5558,
+      "offset": 5552,
       "length": 11,
       "value": "\"eventType\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 5700,
+      "offset": 5694,
       "length": 13,
       "value": "\"messageBody\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 5898,
+      "offset": 5892,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 5901,
+      "offset": 5895,
       "length": 10,
       "value": "\"pageType\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 5956,
+      "offset": 5950,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 5959,
+      "offset": 5953,
       "length": 10,
       "value": "\"userType\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 6014,
+      "offset": 6008,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 6017,
+      "offset": 6011,
       "length": 13,
       "value": "\"scrollDepth\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 6078,
+      "offset": 6072,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 6081,
+      "offset": 6075,
       "length": 12,
       "value": "\"pageLength\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 6140,
+      "offset": 6134,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 6143,
+      "offset": 6137,
       "length": 16,
       "value": "\"premiumContent\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 6210,
+      "offset": 6204,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 6213,
+      "offset": 6207,
       "length": 16,
       "value": "\"unlockedStatus\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 6280,
+      "offset": 6274,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 6283,
+      "offset": 6277,
       "length": 12,
       "value": "\"accessType\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 6342,
+      "offset": 6336,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 6345,
+      "offset": 6339,
       "length": 12,
       "value": "\"authorName\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 6404,
+      "offset": 6398,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 6407,
+      "offset": 6401,
       "length": 6,
       "value": "\"tags\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 6454,
+      "offset": 6448,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 6457,
+      "offset": 6451,
       "length": 5,
       "value": "\"url\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 6698,
+      "offset": 6692,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 6701,
+      "offset": 6695,
       "length": 11,
       "value": "\"paywallId\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 6758,
+      "offset": 6752,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 6761,
+      "offset": 6755,
       "length": 13,
       "value": "\"paywallType\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 6822,
+      "offset": 6816,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 6825,
+      "offset": 6819,
       "length": 20,
       "value": "\"paywallDisplayType\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 6900,
+      "offset": 6894,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 6903,
+      "offset": 6897,
       "length": 10,
       "value": "\"numOfCta\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 6987,
+      "offset": 6981,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 6990,
+      "offset": 6984,
       "length": 13,
       "value": "\"clickAction\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 7139,
+      "offset": 7133,
       "length": 13,
       "value": "\"messageBody\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 7915,
+      "offset": 7302,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
-      "kind": "Array",
-      "offset": 8010,
+      "kind": "StringLiteral",
+      "offset": 7390,
       "length": 2,
-      "value": "[]"
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 8063,
-      "length": 7,
-      "value": "\"topic\""
+      "offset": 7438,
+      "length": 8,
+      "value": "\"DIRECT\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 8072,
-      "length": 11,
-      "value": "\"demoTopic\""
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
-      "kind": "StringLiteral",
-      "offset": 8126,
+      "offset": 7494,
       "length": 13,
       "value": "\"messageBody\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 8143,
-      "length": 5,
-      "value": "\"_id\""
-    },
-    {
-      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
-      "kind": "StringLiteral",
-      "offset": 8212,
+      "offset": 7511,
       "length": 8,
       "value": "\"anonId\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 8288,
+      "offset": 7576,
+      "length": 13,
+      "value": "\"clickAction\""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
+      "kind": "StringLiteral",
+      "offset": 7651,
       "length": 10,
       "value": "\"clientId\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 8368,
-      "length": 11,
-      "value": "\"contentId\""
+      "offset": 7720,
+      "length": 12,
+      "value": "\"deviceType\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 8450,
+      "offset": 7793,
+      "length": 15,
+      "value": "\"eventLocation\""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
+      "kind": "StringLiteral",
+      "offset": 7881,
+      "length": 11,
+      "value": "\"eventType\""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
+      "kind": "StringLiteral",
+      "offset": 7961,
+      "length": 9,
+      "value": "\"popupId\""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
+      "kind": "StringLiteral",
+      "offset": 8091,
+      "length": 5,
+      "value": "\"url\""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
+      "kind": "StringLiteral",
+      "offset": 8150,
       "length": 8,
       "value": "\"userId\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 8526,
+      "offset": 8215,
+      "length": 16,
+      "value": "\"userSourceData\""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
+      "kind": "StringLiteral",
+      "offset": 9239,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
+      "kind": "Array",
+      "offset": 9334,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
+      "kind": "StringLiteral",
+      "offset": 9387,
+      "length": 7,
+      "value": "\"topic\""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
+      "kind": "StringLiteral",
+      "offset": 9396,
+      "length": 11,
+      "value": "\"demoTopic\""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
+      "kind": "StringLiteral",
+      "offset": 9450,
+      "length": 13,
+      "value": "\"messageBody\""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
+      "kind": "StringLiteral",
+      "offset": 9467,
+      "length": 5,
+      "value": "\"_id\""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
+      "kind": "StringLiteral",
+      "offset": 9536,
+      "length": 8,
+      "value": "\"anonId\""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
+      "kind": "StringLiteral",
+      "offset": 9612,
+      "length": 10,
+      "value": "\"clientId\""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
+      "kind": "StringLiteral",
+      "offset": 9692,
+      "length": 11,
+      "value": "\"contentId\""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
+      "kind": "StringLiteral",
+      "offset": 9774,
+      "length": 8,
+      "value": "\"userId\""
+    },
+    {
+      "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
+      "kind": "StringLiteral",
+      "offset": 9850,
       "length": 8,
       "value": "\"pingId\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 8602,
+      "offset": 9926,
       "length": 8,
       "value": "\"active\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 8678,
+      "offset": 10002,
       "length": 9,
       "value": "\"counter\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 8756,
+      "offset": 10080,
       "length": 12,
       "value": "\"authorName\""
     },
     {
       "filePath": "\/Users\/sam\/Desktop\/NEW\/CCPlugin\/EventManager.swift",
       "kind": "StringLiteral",
-      "offset": 8840,
+      "offset": 10164,
       "length": 6,
       "value": "\"tags\""
     },
